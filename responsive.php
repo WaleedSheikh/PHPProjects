@@ -32,7 +32,7 @@ while($row=$result->fetch_array()){
 <?php
 }
 ?>
-	
+	<h1>TahaDanish</h1>
 </div>
 </body>
 </html>
